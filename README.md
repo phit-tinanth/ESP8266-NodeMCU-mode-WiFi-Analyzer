@@ -12,10 +12,10 @@
 ## เลือก library
 
 ```C++
-//#define ILI9341
-//#define ST7735_18GREENTAB
-//#define ST7735_18REDTAB
-//#define ST7735_18GBLACKTAB
+#define ILI9341
+#define ST7735_18GREENTAB
+#define ST7735_18REDTAB
+#define ST7735_18GBLACKTAB
 #define ST7735_144GREENTAB
 ```
 ## นี่คือฟังก์ชั่นของภาพร่าง Arduino
